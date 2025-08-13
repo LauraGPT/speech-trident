@@ -233,6 +233,7 @@ Please read the [paper](https://arxiv.org/pdf/2504.08528) for more details. You 
 | 2024-12 | TS3-Codec | TS3-Codec: Transformer-Based Simple Streaming Single Codec       | [paper](https://arxiv.org/pdf/2411.18803) |
 | 2024-12 | FreeCodec | FreeCodec: A disentangled neural speech codec with fewer tokens  | [paper](https://arxiv.org/pdf/2412.01053) |
 | 2024-12 | TAAE | Scaling Transformers for Low-Bitrate High-Quality Speech Coding       | [paper](https://arxiv.org/pdf/2411.19842) |
+| 2024-11 | BEST-STD | BEST-STD: Bidirectional Mamba-Enhanced Speech Tokenization for Spoken Term Detection | [paper](https://arxiv.org/abs/2411.14100) |
 | 2024-11 | PyramidCodec | PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain | [paper](https://aclanthology.org/2024.findings-emnlp.246.pdf) |
 | 2024-11 | UniCodec | Universal Speech Token Learning Via Low-Bitrate Neural Codec and Pretrained Representations | [paper](https://ieeexplore.ieee.org/abstract/document/10738376?casa_token=eWtmSXEr4AEAAAAA:FzYuQIESJ2LXwl9smJQe3RakpDUFuJ-AS0d39ZDlhsI0tBVX_8P7hu4a59yZezz7hpYd3VomUDo) |
 | 2024-11 | SimVQ | Addressing Representation Collapse in Vector Quantized Models with One Linear Layer | [paper](https://arxiv.org/pdf/2411.02038) |
