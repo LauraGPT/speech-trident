@@ -61,11 +61,26 @@ In this repository, we survey three crucial areas: (1) representation learning, 
   </tr>
 </table>
 
+## :trident: 2026 News
+New survey repo for **spoken dialogue models** is available on [GitHub](https://github.com/ga642381/Spoken-Dialogue-Model-Survey)
 
-## :trident: April 2025 News
+<p align="center">
+  <img src="https://github.com/ga642381/Spoken-Dialogue-Model-Survey/blob/main/assets/sdm-timeline.png" width="500">
+</p>
+
+```bibtex
+@article{chang2026tico,
+      title={TiCo: Time-Controllable Training for Spoken Dialogue Models},
+      author={Kai-Wei Chang and Wei-Chih Chen and En-Pei Hu and Hung-yi Lee and James Glass},
+      journal={arXiv preprint arXiv:2603.22267},
+      year={2026}
+}
+```
+
+## :trident: 2025 News
 
 The survey paper **“On The Landscape of Spoken Language Models: A Comprehensive Survey”** is now available on [arXiv](https://arxiv.org/pdf/2504.08528)
-```
+```bibtex
 @article{arora2025landscape,
   title={On The Landscape of Spoken Language Models: A Comprehensive Survey},
   author={Arora, Siddhant and Chang, Kai-Wei and Chien, Chung-Ming and Peng, Yifan and Wu, Haibin and Adi, Yossi and Dupoux, Emmanuel and Lee, Hung-Yi and Livescu, Karen and Watanabe, Shinji},
@@ -73,6 +88,7 @@ The survey paper **“On The Landscape of Spoken Language Models: A Comprehensiv
   year={2025}
 }
 ```
+
 It provides a comprehensive survey of spoken language models (SLMs), which covers a lot of speech/audio langauge models surveyed in this Speech-Trident project. But with more detailed and technical discussion. The paper categorizes the SLMs into:
 
 1.⚡ **Pure Speech LM**
@@ -364,22 +380,44 @@ Professor Hung-Yi Lee will be giving a talk as part of the [Interspeech 2024 sur
 
 I (Kai-Wei Chang) will be giving a talk as part of the [ICASSP 2024 tutorial](https://cmsworkshops.com/ICASSP2024/tutorials.php#tut32) titled **Parameter-Efficient and Prompt Learning for Speech and Language Foundation Models**. The topic will cover nowday's speech/audio large language models. The slides from my presentation is available at https://kwchang.org/talks/. Please feel free to reach out to me for any discussions.
 
+## :trident: Interspeech 2026 Tutorial
+Coming soon....
+
 ## 🔱 Related Repository
 
 | Name                                                        | GitHub Repo                                                                                   | Paper                                               |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **Towards Holistic Evaluation of Large Audio-Language Models** | [Link](https://github.com/ckyang1124/LALM-Evaluation-Survey)                              | :fire: NEW! [Paper](https://arxiv.org/abs/2505.15957)            |
+| :fire: NEW! **Spoken-Dialogue-Model-Survey** | :fire: NEW! [Link](https://github.com/ga642381/Spoken-Dialogue-Model-Survey) | :fire: NEW! [Paper](https://arxiv.org/abs/2603.22267)
+| **Towards Holistic Evaluation of Large Audio-Language Models** | [Link](https://github.com/ckyang1124/LALM-Evaluation-Survey)                              | [Paper](https://arxiv.org/abs/2505.15957)            |
 | **Large Audio Models**                                      | [Link](https://github.com/liusongxiang/Large-Audio-Models)                                    | -                                                   |
 | **Awesome Speech Generation**                               | [Link](https://github.com/kuan2jiu99/Awesome-Speech-Generation)                               | -                                                   |
 | **Speech Prompts and Adapters**                             | [Link](https://github.com/ga642381/Speech-Prompts-Adapters)                                   | -                                                   |
 | **Codec-SUPERB**                                            | [Link](https://github.com/voidful/Codec-SUPERB)                                               | [Paper](https://arxiv.org/abs/2402.13071)            |
 | **Awesome Neural Programming and Prompting**                | [Link](https://github.com/huckiyang/awesome-neural-reprogramming-prompting)                   | -                                                   |
 
-
-
 ## Citation
 
-If you find this repository useful, please consider citing the following papers.
+The survey paper **“On The Landscape of Spoken Language Models: A Comprehensive Survey”** is now available on [arXiv](https://arxiv.org/pdf/2504.08528)
+
+```bibtex
+@article{arora2025landscape,
+  title={On The Landscape of Spoken Language Models: A Comprehensive Survey},
+  author={Arora, Siddhant and Chang, Kai-Wei and Chien, Chung-Ming and Peng, Yifan and Wu, Haibin and Adi, Yossi and Dupoux, Emmanuel and Lee, Hung-Yi and Livescu, Karen and Watanabe, Shinji},
+  journal={arXiv preprint arXiv:2504.08528},
+  year={2025}
+}
+```
+
+Related articles by the core contributors:
+
+```bibtex
+@article{chang2026tico,
+      title={TiCo: Time-Controllable Training for Spoken Dialogue Models},
+      author={Kai-Wei Chang and Wei-Chih Chen and En-Pei Hu and Hung-yi Lee and James Glass},
+      journal={arXiv preprint arXiv:2603.22267},
+      year={2026}
+}
+```
 
 ```
 @article{wu2024ts3,
